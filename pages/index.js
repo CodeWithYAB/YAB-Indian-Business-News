@@ -14,7 +14,7 @@ export default function Home() {
       <Toolbar />
 
       <div className={styles.main}>
-        <h1><span>Welcome to </span>YAB Inidan Bussiness News</h1>
+        <h1><span>Welcome to </span>YAB Indian Bussiness News</h1>
         <h2>Keep yourself updated with the Top Indian BusinessNews!!</h2>
       </div>
     </div>
